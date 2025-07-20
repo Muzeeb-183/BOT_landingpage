@@ -19,7 +19,7 @@ export default function CTASection() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <button className="px-6 sm:px-8 py-3 bg-white text-black font-bold text-base sm:text-lg rounded-lg hover:bg-gray-100 transition shadow-md">
+          <button className="px-6 sm:px-8 py-3 bg-white text-white sm:text-black font-bold text-base sm:text-lg rounded-lg hover:bg-gray-100 transition         shadow-md">
             🚀 Try SSM Bot Now
           </button>
         </a>
@@ -29,7 +29,7 @@ export default function CTASection() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <button className="px-6 sm:px-8 py-3 bg-black text-black font-bold text-base sm:text-lg rounded-lg hover:bg-gray-900 transition shadow-md">
+          <button className="px-6 sm:px-8 py-3 bg-black text-white font-bold text-base sm:text-lg rounded-lg hover:bg-gray-900 transition shadow-md">
             📢 Join Updates Channel
           </button>
         </a>
@@ -39,7 +39,7 @@ export default function CTASection() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <button className="px-6 sm:px-8 py-3 bg-orange-100 text-black font-bold text-base sm:text-lg rounded-lg hover:bg-orange-200 transition shadow-md">
+          <button className="px-6 sm:px-8 py-3 bg-orange-100 text-white sm:text-black font-bold text-base sm:text-lg rounded-lg hover:bg-orange-200       transition shadow-md">
             💬 Talk to Support
           </button>
         </a>
